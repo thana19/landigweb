@@ -1,1 +1,1 @@
-# landigweb
+# landingweb
